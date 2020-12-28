@@ -1,2 +1,2 @@
-# read-maven-matlab
-Matlab code to read MAVEN data
+# read_maven_matlab
+Some simple Matlab code to read MAVEN data.
